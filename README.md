@@ -5,9 +5,9 @@ Aqui estão os meus exercícios do **Curso de Python 3** do **Gustavo Guanabara*
 
 Organizei tudo em três mundos:
 
-- **Mundo 1** – Começando com o básico de Python  
-- **Mundo 2** – Estruturas de controle, 
-- **Mundo 3** – Funções e exercícios mais avançados  
+- **Mundo 1** – Lógica de programação e os conceitos básicos de Python.
+- **Mundo 2** – Estruturas de repetição e condicionais.
+- **Mundo 3** – Estruturas de dados (tuplas, listas, dicionários), Funções e Módulos.
 
 Cada pasta tem os exercícios que fiz acompanhando os vídeos do curso.
 
