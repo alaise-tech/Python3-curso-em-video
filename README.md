@@ -1,7 +1,5 @@
 # Python3-curso-em-video
-Primeiro Repositório
-
-# Python3 - Curso em Vídeo
+  Primeiro Repositório
 
 Repositório contendo os exercícios do **Curso de Python 3** do **Curso em Vídeo** do Gustavo Guanabara.
 
@@ -15,7 +13,7 @@ O projeto está organizado em três mundos:
 
 Cada pasta contém os exercícios correspondentes aos vídeos do curso.
 
-## Agradecimentos
+## Agradecimento
 
 - Ao **Gustavo Guanabara**, pelo excelente curso de Python 3 no **Curso em Vídeo**. 
 
