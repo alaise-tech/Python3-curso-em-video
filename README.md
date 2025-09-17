@@ -1,19 +1,17 @@
 # Python3-curso-em-video
   Primeiro Repositório
 
-Repositório contendo os exercícios do **Curso de Python 3** do **Curso em Vídeo** do Gustavo Guanabara.
+Aqui estão os meus exercícios do **Curso de Python 3** do **Gustavo Guanabara**, do site **Curso em Vídeo**.  
 
-## Estrutura do Projeto
+Organizei tudo em três mundos:
 
-O projeto está organizado em três mundos:
+- **Mundo 1** – Começando com o básico de Python  
+- **Mundo 2** – Estruturas de controle, 
+- **Mundo 3** – Funções e exercícios mais avançados  
 
-- **Mundo 1** – Fundamentos básicos de Python
-- **Mundo 2** – Estruturas de controle
-- **Mundo 3** – Funções e manipulação de dados
-
-Cada pasta contém os exercícios correspondentes aos vídeos do curso.
+Cada pasta tem os exercícios que fiz acompanhando os vídeos do curso.
 
 ## Agradecimento
 
-- Ao **Gustavo Guanabara**, pelo excelente curso de Python 3 no **Curso em Vídeo**. 
+- Ao **Gustavo Guanabara**, pelo excelente curso de Python 3 **. 
 
